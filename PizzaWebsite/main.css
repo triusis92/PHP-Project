@@ -1,0 +1,17 @@
+img
+{
+position: fixed;
+right:100px;
+top:100px;
+
+
+input:invalid 
+{
+background-color : #ff0000;
+}
+
+input:valid
+{
+background-color : #99ff99;
+}
+
